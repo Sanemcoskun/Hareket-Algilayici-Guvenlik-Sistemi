@@ -1,0 +1,1 @@
+# Hareket-Alg-lay-c-G-venlik-Sistemi
