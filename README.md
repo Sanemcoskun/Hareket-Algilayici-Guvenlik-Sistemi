@@ -5,7 +5,7 @@ Hareket algılandığında kullanıcıya anlık bildirim gönderen bir güvenlik
 
 ## Proje Kısa Özeti
 Bu proje, ESP8266 veya ESP32 mikrodenetleyicisi ve PIR hareket sensörü kullanarak çevredeki hareketleri algılar.  
-Hareket tespit edildiğinde Telegram API veya Firebase API kullanarak kullanıcıya anlık bildirim iletir.
+Hareket tespit edildiğinde Telegram API kullanarak kullanıcıya anlık bildirim iletir.
 
 ## Proje Gereksinimleri
 - ESP8266 veya ESP32 mikrodenetleyici
@@ -27,7 +27,7 @@ Bu proje MIT lisansı altında yayınlanmıştır.
 - ESP8266
 - ESP32
 - PIR sensörü
-- Firebase API
+- Telegram API
 - IoT
 - Anlık bildirim
 - Güvenlik sistemi
