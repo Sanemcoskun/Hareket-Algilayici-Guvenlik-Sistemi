@@ -36,7 +36,7 @@ Bu projede hareket algılama, internet üzerinden bildirim gönderme ve mikroden
 - Hareket algılandığında dijital çıkış verir.
 
 ### PIR Sensörü
-![PIR Sensörü](Figures/pir.png)
+![PIR Sensörü](Figures/pır.png)
 
 #### HC-SR04 Ultrasonik Mesafe Sensörü
 - Trig piniyle ses dalgası gönderilir.  
